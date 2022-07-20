@@ -1,0 +1,4 @@
+Hello, This is a test file……
+This is a Python class.
+We are learning Python.
+We will create website using python+django.
